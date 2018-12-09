@@ -1,0 +1,51 @@
+.barra {
+	background-color: #0A535D;
+	width: 100%;
+	position: fixed;
+	left:0;
+	top:0;
+
+}
+.logo img {
+	width: 600px;
+	float:left;
+	padding: 15px
+}
+.navegacion-principal {
+	float:right;
+	text-align: center;
+	padding: 15px;
+}
+nav.navegacion-principal a {
+	background-color: #073B42;
+	padding: 20px;
+	text-decoration: none;
+	color:white;
+	margin-right: 20px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+nav.navegacion-principal a:hover {
+	background-color: #077FAC;
+	
+}
+div.bienvenidatexto{
+	margin-top:150px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 50px;
+	background: url(../img/taponrojo.jpg);
+	background-repeat: no-repeat;
+	background-size: 1000px ;
+	background-position: bottom left;
+}
+div.imagenbienvenida img {
+	width:500px;
+	margin-top:100px;
+}
+div.segundocontenido {
+	background-color: gray;
+}
+div.contenedor1 h1 {
+    display: inline-block;
+}
